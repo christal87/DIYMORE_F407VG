@@ -1,5 +1,7 @@
 # DIYMORE_F407VG
 MicroPython board definition files for the DIYMORE black PCB STM32F407VGT6 dev board.
+This code is based on mcauser's MCUDEV_DEVEBOX_F407VGT6 repo.
+Tested with micropython version 1.13.
 
 https://stm32-base.org/boards/STM32F407VGT6-diymore.html
 
